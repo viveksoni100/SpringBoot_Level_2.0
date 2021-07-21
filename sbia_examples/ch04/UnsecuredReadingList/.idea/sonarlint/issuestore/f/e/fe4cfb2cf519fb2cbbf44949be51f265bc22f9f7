@@ -1,0 +1,8 @@
+
+e
+java:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢þÿÿÿÿ
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Û¯¥?
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+b
+java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(ÂÍøàþÿÿÿÿ8”òç€¨/
