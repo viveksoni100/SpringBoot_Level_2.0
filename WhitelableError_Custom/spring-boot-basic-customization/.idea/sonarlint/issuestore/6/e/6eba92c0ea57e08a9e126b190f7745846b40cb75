@@ -1,7 +1,0 @@
-
-@
-java:S2201"*The return value of "charAt" must be used.(ñ·®š
-v
-java:S3039"`Refactor this "charAt" call; it will result in an "StringIndexOutOfBounds" exception at runtime.(ñ·®š
-a
-java:S1192"FDefine a constant instead of duplicating this literal "index" 3 times.(¦œû×ÿÿÿÿÿ
